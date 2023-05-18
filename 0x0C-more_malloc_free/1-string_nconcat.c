@@ -6,7 +6,7 @@
  * @s1: ...
  * @s2: ...
  * @n: ...
- * 
+ *
  * Return: ...
  */
 
@@ -45,4 +45,3 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	str[j] = '\0';
 	return (str);
 }
-
