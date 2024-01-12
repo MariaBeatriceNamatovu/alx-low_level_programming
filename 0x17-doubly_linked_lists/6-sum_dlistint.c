@@ -2,7 +2,8 @@
 
 /**
  * sum_dlistint - function to sum the elements of a doubly linked list
- * @head: poiner of type dlistint_t to head of list
+ * @head: pointer of type dlistint_t to head of list
+ *
  * Return: sum of all elements in a linked list
  */
 
@@ -17,3 +18,5 @@ int sum_dlistint(dlistint_t *head)
 	}
 	return (sum);
 }
+	
+

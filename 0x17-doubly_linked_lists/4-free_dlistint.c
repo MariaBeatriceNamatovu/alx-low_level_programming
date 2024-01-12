@@ -1,11 +1,7 @@
 #include "lists.h"
 
 /**
- * free_dlistint - funcion to free alocated memory on heap
- *
- *
- *
- *
+ * free_dlistint - function to free allocated memory on heap
  * @head: pointer to head of doubly linked list
  *
  */
